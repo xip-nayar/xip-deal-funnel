@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-11T16:49:31Z",
-  "notes": "Run at 2026-09-11T16:49:31Z; searched inbound@xipllc.com (get_me confirmed signed in as inbound@xipllc.com directly this run) 15:34:11Z -> 16:49:31Z (15-min buffer before prior checkpoint 15:49:11Z): 1 email found, 0 passed Stage-1 (meeting-cancellation admin notice, no attachment/deal language). Dashboard regenerated. Deal history: DF-00001..00034, 1 Strong Fit / 8 Fit / 8 Marginal / 17 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-11T17:48:58Z",
+  "notes": "Run at 2026-09-11T17:48:58Z; searched inbound@xipllc.com 16:34:31Z -> 17:48:58Z (15-min buffer before prior checkpoint 16:49:31Z): 1 email found (same meeting-cancellation notice as prior run, within buffer overlap), 0 passed Stage-1. Dashboard regenerated. Deal history: DF-00001..00034, 1 Strong Fit / 8 Fit / 8 Marginal / 17 Pass (see git history for full breakdown)."
 }
