@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-11T18:49:04Z",
-  "notes": "Run at 2026-09-11T18:49:04Z; searched inbound@xipllc.com 17:33:58Z -> 18:49:04Z (15-min buffer before prior checkpoint 17:48:58Z): 1 email found, 1 passed Stage-1 (business broker listing with 'for sale' language). Scored: DF-00035 (BayState Business Brokers coastal package store/liquor retail listing) - hard-disqualified as consumer products/retail with no infra character, 0 pts, Pass tier. Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-11T19:49:07Z",
+  "notes": "Run at 2026-09-11T19:49:07Z; searched inbound@xipllc.com 18:34:04Z -> 19:49:07Z (15-min buffer before prior checkpoint 18:49:04Z): 0 emails found (confirmed genuine via positive control). Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
 }
