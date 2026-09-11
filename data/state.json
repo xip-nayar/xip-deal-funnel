@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-11T15:49:11Z",
-  "notes": "Run at 2026-09-11T15:49:11Z; searched inbound@xipllc.com 14:34:08Z -> 15:48:46Z (15-min buffer before prior checkpoint 14:49:08Z): 0 emails found (confirmed genuine via positive control returning BayState \"Listing: 1838\"). Dashboard regenerated. Deal history: DF-00001..00034, 1 Strong Fit / 8 Fit / 8 Marginal / 17 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-11T16:49:31Z",
+  "notes": "Run at 2026-09-11T16:49:31Z; searched inbound@xipllc.com (get_me confirmed signed in as inbound@xipllc.com directly this run) 15:34:11Z -> 16:49:31Z (15-min buffer before prior checkpoint 15:49:11Z): 1 email found, 0 passed Stage-1 (meeting-cancellation admin notice, no attachment/deal language). Dashboard regenerated. Deal history: DF-00001..00034, 1 Strong Fit / 8 Fit / 8 Marginal / 17 Pass (see git history for full breakdown)."
 }
