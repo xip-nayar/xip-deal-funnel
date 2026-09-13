@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-13T18:48:48Z",
-  "notes": "Run at 2026-09-13T18:48:48Z; searched inbound@xipllc.com 17:34:00Z -> 18:48:48Z (15-min buffer before prior checkpoint 17:49:00Z): 0 emails found (confirmed genuine via BayState positive control). Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-13T19:48:35Z",
+  "notes": "Run at 2026-09-13T19:48:35Z; searched inbound@xipllc.com 18:33:48Z -> 19:48:35Z (15-min buffer before prior checkpoint 18:48:48Z): 0 emails found (confirmed genuine via BayState positive control). get_me now returns inbound@xipllc.com directly (signed in as the shared mailbox itself, not via delegate access) -- searches ran without mailboxOwnerEmail. Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
 }
