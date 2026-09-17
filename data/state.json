@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-17T01:49:12Z",
-  "notes": "Run at 2026-09-17T01:49:12Z; searched inbound@xipllc.com 00:33:34Z -> 01:49:12Z (15-min buffer before prior checkpoint 00:48:34Z): 0 emails found (confirmed genuine via positive control — BayState 1838 email returned). Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-17T02:49:02Z",
+  "notes": "Run at 2026-09-17T02:49:02Z; searched inbound@xipllc.com 01:34:12Z -> 02:49:02Z (15-min buffer before prior checkpoint 01:49:12Z): 0 emails found (confirmed genuine via positive control — BayState 1838 email returned). Dashboard regenerated. Note: get_me now returns inbound@xipllc.com as the signed-in identity directly (not shruti.nayar@xipllc.com as earlier notes describe) — searched without mailboxOwnerEmail, control still hit the right mailbox. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
 }
