@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-17T15:49:16Z",
-  "notes": "Run at 2026-09-17T15:49:16Z; searched inbound@xipllc.com 14:35:47Z -> 15:49:16Z (15-min buffer before prior checkpoint 14:50:47Z): 1 email found, 1 passed Stage-1 (HedgeStone broker digest, 9 bundled listings), but it was the identical email already logged as DF-00036 in the prior run (same internetMessageId, receivedDateTime 14:41:28Z falls inside the overlap window) - 0 new deals logged, append-rows dedup by messageId confirmed no-op. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-17T16:48:46Z",
+  "notes": "Run at 2026-09-17T16:48:46Z; searched inbound@xipllc.com 15:34:16Z -> 16:48:46Z (15-min buffer before prior checkpoint 15:49:16Z): 0 emails found (confirmed via positive-control search of the prior 24h, which correctly returned the known HedgeStone 14:41:28Z email) - 0 new deals logged. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
 }
