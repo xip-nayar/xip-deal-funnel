@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-17T11:49:00Z",
-  "notes": "Run at 2026-09-17T11:49:00Z; searched inbound@xipllc.com 10:33:54Z -> 11:49:00Z (15-min buffer before prior checkpoint 10:48:54Z): 0 emails found (confirmed genuine — newest email in whole mailbox is 2026-09-11T18:27:54Z, well before window; mailbox reachable and returning real content via unfiltered listing). Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-17T12:49:10Z",
+  "notes": "Run at 2026-09-17T12:49:10Z; searched inbound@xipllc.com 11:34:00Z -> 12:49:10Z (15-min buffer before prior checkpoint 11:49:00Z): 0 emails found (confirmed genuine via positive control on 2026-08-28T21:00-21:30Z window, which correctly returned the BayState \"Listing: 1838\" email). Dashboard regenerated. Deal history: DF-00001..00035, 1 Strong Fit / 8 Fit / 8 Marginal / 18 Pass (see git history for full breakdown)."
 }
