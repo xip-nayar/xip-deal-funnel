@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-19T08:49:36Z",
-  "notes": "Run at 2026-09-19T08:49:36Z; searched inbound@xipllc.com 07:33:42Z -> now (15-min buffer before prior checkpoint 07:48:42Z): 0 emails found (confirmed genuine via positive control on 2026-09-17 window, which correctly returned the known HedgeStone listing email) - 0 new deals logged. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-19T09:48:55Z",
+  "notes": "Run at 2026-09-19T09:48:55Z; searched inbound@xipllc.com 08:34:36Z -> now (15-min buffer before prior checkpoint 08:49:36Z): 0 emails found (confirmed genuine via positive control on 2026-08-28 BayState window, which correctly returned the known BayState listing email) - 0 new deals logged. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
 }
