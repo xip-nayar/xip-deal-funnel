@@ -1,5 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-20T18:48:42Z",
-  "notes": "Run at 2026-09-20T18:48:42Z; searched inbound@xipllc.com (this session's signed-in identity IS inbound@xipllc.com directly, not a delegate), 2026-09-20T17:33:28Z -> now (15-min buffer before prior checkpoint 17:48:28Z): 0 emails found. Confirmed genuine via BayState positive control (2026-08-28T21:00-21:30Z returns Listing 1838 as expected). 0 new deals logged. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-20T19:49:04Z",
+  "notes": "Run at 2026-09-20T19:49:04Z; signed-in identity IS inbound@xipllc.com directly (get_me confirmed). Searched inbox 2026-09-20T18:33:42Z -> 2026-09-20T19:49:04Z (15-min buffer before prior checkpoint 18:48:42Z): 1 email found (\"Canceled: [Rev.] Admin | XIP Weekly Roundtable\" from shruti.nayar@xipllc.com, internal meeting cancellation). Dropped at Stage-1 (purely internal admin/scheduling thread, no forwarded external deal content, no attachment). 0 survivors, 0 new deals logged. Dashboard regenerated anyway to keep Refreshed timestamp honest. Deal history: DF-00001..00036, 1 Strong Fit / 8 Fit / 8 Marginal / 19 Pass (see git history for full breakdown)."
 }
-
