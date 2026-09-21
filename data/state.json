@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-21T20:49:02Z",
-  "notes": "Run at 2026-09-21T20:49:02Z; searched inbox 2026-09-21T19:33:42Z -> 2026-09-21T20:49:02Z (15-min buffer before prior checkpoint 19:48:42Z): 0 emails found, 0 passed Stage-1, 0 new deals logged. Positive control (newest-first, no date bound) confirmed the search tool is working and returned the most recent email at 2026-09-21T15:55:29Z, before this run's window, corroborating the genuine-empty result. Dashboard regenerated. Deal history: DF-00001..00038, 1 Strong Fit / 8 Fit / 8 Marginal / 21 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-21T21:49:21Z",
+  "notes": "Run at 2026-09-21T21:49:21Z; searched inbox 2026-09-21T20:34:02Z -> 2026-09-21T21:49:21Z (15-min buffer before prior checkpoint 20:49:02Z): 1 email found, 1 passed Stage-1, 1 new deal logged (DF-00039, Pass tier — hard-disqualified consumer products/brand, seasonal waterfront restaurant/retail market broker blast). Dashboard regenerated. Deal history: DF-00001..00039, 1 Strong Fit / 8 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
 }
