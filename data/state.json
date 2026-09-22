@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-22T06:48:58Z",
-  "notes": "Run at 2026-09-22T06:48:58Z; searched inbox 2026-09-22T05:33:31Z -> 2026-09-22T06:48:58Z (15-min buffer before prior checkpoint 05:48:31Z): 0 emails found, 0 passed Stage-1, 0 new deals logged. Positive control (BayState Listing:1838) confirmed tool/mailbox access working. Dashboard regenerated. Deal history: DF-00001..00039, 1 Strong Fit / 8 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-22T07:49:18Z",
+  "notes": "Run at 2026-09-22T07:49:18Z; searched inbox 2026-09-22T06:33:58Z -> 2026-09-22T07:49:18Z (15-min buffer before prior checkpoint 06:48:58Z): 0 emails found, 0 passed Stage-1, 0 new deals logged. Positive control (BayState Listing:1838) confirmed tool/mailbox access working; empty-window format double-checked against known-empty control. Dashboard regenerated. Deal history: DF-00001..00039, 1 Strong Fit / 8 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
 }
