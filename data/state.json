@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-24T01:49:18Z",
-  "notes": "Run at 2026-09-24T01:49:18Z; searched inbox 2026-09-24T00:33:58Z -> 01:49:18Z (15-min buffer before prior checkpoint 00:48:58Z): 0 emails found (confirmed genuine: newest message in mailbox overall is from 2026-09-22T15:20:10Z, well before the window start). 0 new deals logged. Dashboard regenerated. Deal history: DF-00001..00039, 1 Strong Fit / 8 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-24T02:48:58Z",
+  "notes": "Run at 2026-09-24T02:48:58Z; searched inbox 2026-09-24T01:34:18Z -> 02:48:58Z (15-min buffer before prior checkpoint 01:49:18Z): 0 emails found (confirmed genuine via positive control returning the BayState Listing:1838 test email). 0 new deals logged. Dashboard regenerated. Deal history: DF-00001..00039, 1 Strong Fit / 8 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
 }
