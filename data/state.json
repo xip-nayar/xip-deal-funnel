@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-25T16:48:28Z",
-  "notes": "Run at 2026-09-25T16:48:28Z; searched inbound@xipllc.com 15:33:36Z -> 16:48:28Z (15-min buffer before prior checkpoint 15:48:36Z): 1 email found, passed Stage 1 (Mariner \"Deal Flow Friday\" broker blast, 24 bundled teasers). Logged 1 new row (DF-00040, Energy Infrastructure Services CAD $11.1M teaser, Fit tier — 4th appearance of this recurring line item after DF-00021/00024/00032); 23 other bundled teasers excluded as out of mandate or too generic to place as core infra. Dashboard regenerated. Deal history: DF-00001..00040, 1 Strong Fit / 9 Fit / 8 Marginal / 22 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-25T17:49:21Z",
+  "notes": "Run at 2026-09-25T17:49:21Z; searched inbound@xipllc.com 16:33:28Z -> 17:49:21Z (15-min buffer before prior checkpoint 16:48:28Z): 1 email found, passed Stage 1 (BayState Business Brokers \"Listing 1915\", high-end outdoor/architectural lighting install business). Logged 1 new row (DF-00041, Pass tier - too small for mandate, SDE ~$132K vs $3-20M sweet spot). Dashboard regenerated. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
 }
