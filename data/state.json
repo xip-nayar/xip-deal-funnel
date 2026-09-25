@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-25T18:49:05Z",
-  "notes": "Run at 2026-09-25T18:49:05Z; searched inbound@xipllc.com 17:34:21Z -> 18:49:05Z (15-min buffer before prior checkpoint 17:49:21Z): 1 email found (BayState Business Brokers \"Listing 1915\"), but it is the exact same email already logged as DF-00041 in the prior run (messageId match) — caught again only due to the checkpoint buffer. No new rows written. Dashboard regenerated to keep Refreshed timestamp honest. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-25T19:48:39Z",
+  "notes": "Run at 2026-09-25T19:48:39Z; searched inbound@xipllc.com 18:34:05Z -> 19:48:39Z (15-min buffer before prior checkpoint 18:49:05Z): 0 emails found (verified genuine via positive control, not a tool failure). No new rows written. Dashboard regenerated to keep Refreshed timestamp honest. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
 }
