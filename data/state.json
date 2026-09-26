@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-26T20:49:05Z",
-  "notes": "Run at 2026-09-26T20:49:05Z; searched inbound@xipllc.com 19:33:37Z -> 20:49:05Z (15-min buffer before prior checkpoint 19:48:37Z): 0 emails found. get_me confirms direct mailbox access to inbound@xipllc.com (no delegate identity involved). Verified search tool is working (unfiltered query returned 528 total messages, newest dated 2026-09-25T17:49:19Z, which predates this window) rather than silently failing. No new rows written. Dashboard regenerated to keep Refreshed timestamp honest. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-26T21:48:38Z",
+  "notes": "Run at 2026-09-26T21:48:38Z; searched inbound@xipllc.com 20:34:05Z -> 21:48:38Z (15-min buffer before prior checkpoint 20:49:05Z): 0 emails found. Positive control (2026-08-28T21:00-21:30Z BayState 'Listing: 1838') returned correctly, confirming search tool is working rather than silently failing. No new rows written. Dashboard regenerated to keep Refreshed timestamp honest. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
 }
