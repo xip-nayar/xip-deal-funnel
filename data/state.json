@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-29T19:51:15Z",
-  "notes": "Run at 2026-09-29T19:51:15Z; searched 18:34:15Z -> 19:49:20Z (15-min buffer before prior checkpoint 18:49:15Z): 1 email found in window, 1 passed Stage-1, 0 new deals logged as Strong Fit/Fit/Marginal, 1 logged as Pass. Deal DF-00043: BayState Business Brokers 'Listing 1933/1934' two-location massage & wellness membership studio (MA) — hard-disqualified as consumer products/brand (personal-care franchise), auto Pass tier. Dashboard regenerated. Deal history: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
+  "lastCheckedISO": "2026-09-29T20:49:23Z",
+  "notes": "Run at 2026-09-29T20:49:23Z; searched 19:36:15Z -> 20:49:23Z (15-min buffer before prior checkpoint 19:51:15Z): 1 email found in window, 1 passed Stage-1 (BayState Business Brokers 'EARLY ACCESS: New Listing 1933/1934' massage & wellness studios), but it is an exact messageId duplicate of DF-00043 already logged in the prior run (same broker re-sent/repeat delivery) — 0 new rows added. Dashboard regenerated (timestamp refresh only). Deal history unchanged: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
 }
