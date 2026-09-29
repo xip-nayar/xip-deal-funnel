@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-29T15:13:16Z",
-  "notes": "Run at 2026-09-29T15:13:16Z; searched 12:55:00Z -> 15:13:16Z (15-min buffer before prior checkpoint 13:10:00Z): 0 emails found; confirmed genuine via positive control (BayState query, returned correctly). No new rows written. Dashboard regenerated to keep Refreshed timestamp honest. Deal history: DF-00001..00041, 1 Strong Fit / 9 Fit / 8 Marginal / 23 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-29T15:49:00Z",
+  "notes": "Run at 2026-09-29T15:49:00Z; searched 14:58:16Z -> 15:49:00Z (15-min buffer before prior checkpoint 15:13:16Z): 1 email found, 1 passed Stage-1, 1 new row logged (DF-00042, Pass tier). New row is a repeat broker blast of the same seafood-restaurant/retail-market 'Listing 1930' content already logged as DF-00039 (2026-09-21), resent under a mismatched 'Listing 1915' subject; hard-disqualified as consumer products/brand, out of infra mandate. Dashboard regenerated. Deal history: DF-00001..00042, 1 Strong Fit / 9 Fit / 8 Marginal / 24 Pass (see git history for full breakdown)."
 }
