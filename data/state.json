@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-29T18:49:15Z",
-  "notes": "Run at 2026-09-29T18:49:15Z; searched 17:34:17Z -> 18:49:15Z (15-min buffer before prior checkpoint 17:49:17Z): 0 emails found in window, 0 passed Stage-1, 0 new rows logged. Positive control (BayState Listing 1838, 2026-08-28 window) confirmed search tool/access working. Dashboard regenerated to keep Refreshed timestamp honest. Deal history unchanged: DF-00001..00042, 1 Strong Fit / 9 Fit / 8 Marginal / 24 Pass (see git history for full breakdown)."
+  "lastCheckedISO": "2026-09-29T19:51:15Z",
+  "notes": "Run at 2026-09-29T19:51:15Z; searched 18:34:15Z -> 19:49:20Z (15-min buffer before prior checkpoint 18:49:15Z): 1 email found in window, 1 passed Stage-1, 0 new deals logged as Strong Fit/Fit/Marginal, 1 logged as Pass. Deal DF-00043: BayState Business Brokers 'Listing 1933/1934' two-location massage & wellness membership studio (MA) — hard-disqualified as consumer products/brand (personal-care franchise), auto Pass tier. Dashboard regenerated. Deal history: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
 }
