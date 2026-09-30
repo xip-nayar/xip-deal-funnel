@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-09-30T16:49:00Z",
-  "notes": "Run at 2026-09-30T16:49:00Z; searched 15:33:40Z -> 16:49:00Z (15-min buffer before prior checkpoint 15:48:40Z): 0 emails found in window (confirmed genuine: newest mailbox email overall is 2026-09-29T19:45:48Z, get_me returns inbound@xipllc.com directly). 0 new rows added. Dashboard regenerated (timestamp refresh only). Deal history unchanged: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
+  "lastCheckedISO": "2026-09-30T17:48:58Z",
+  "notes": "Run at 2026-09-30T17:48:58Z; searched 16:34:00Z -> 17:48:58Z (15-min buffer before prior checkpoint 16:49:00Z): 0 emails found in window (confirmed genuine via positive control: newest mailbox email overall is 2026-09-29T19:45:48Z, get_me returns inbound@xipllc.com directly, no mailboxOwnerEmail delegate param needed this session). 0 new rows added. Dashboard regenerated (timestamp refresh only). Deal history unchanged: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
 }
