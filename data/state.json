@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-01T03:49:01Z",
-  "notes": "Run at 2026-10-01T03:49:01Z; searched 2026-10-01T02:34:47Z -> 2026-10-01T03:49:01Z (15-min buffer before prior checkpoint 02:49:47Z): 0 emails found in window (get_me returned inbound@xipllc.com directly, signed in as the shared mailbox itself, no mailboxOwnerEmail delegate param needed this session). 0 new rows added. Dashboard regenerated (timestamp refresh only). Deal history unchanged: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
+  "lastCheckedISO": "2026-10-01T04:48:51Z",
+  "notes": "Run at 2026-10-01T04:48:51Z; searched 2026-10-01T03:34:01Z -> 2026-10-01T04:48:51Z (15-min buffer before prior checkpoint 03:49:01Z): 0 emails found (signed in directly as inbound@xipllc.com via get_me, no mailboxOwnerEmail needed; empty window confirmed genuine via positive control, which correctly returned the BayState Listing:1838 email). 0 new rows added. Dashboard regenerated (timestamp refresh only). Deal history unchanged: DF-00001..00043, 1 Strong Fit / 9 Fit / 8 Marginal / 25 Pass."
 }
