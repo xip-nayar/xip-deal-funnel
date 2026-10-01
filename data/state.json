@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-01T18:49:17Z",
-  "notes": "Run at 2026-10-01T18:49:17Z; searched 2026-10-01T17:34:37Z -> 2026-10-01T18:49:17Z (15-min buffer before prior checkpoint 17:49:37Z) as inbound@xipllc.com (direct sign-in this run, get_me correctly returned inbound@xipllc.com): 1 email found, 1 passed Stage-1, 1 scored. New row: DF-00045, BayState Business Brokers listing 1937 (absentee-owned tile & stone retailer, Southwest CT) - hard-disqualified as out-of-mandate consumer retail business, auto Pass tier. Dashboard regenerated. Deal history: DF-00001..00045, 1 Strong Fit / 9 Fit / 8 Marginal / 27 Pass."
+  "lastCheckedISO": "2026-10-01T19:48:53Z",
+  "notes": "Run at 2026-10-01T19:48:53Z; searched 2026-10-01T18:34:17Z -> 2026-10-01T19:48:53Z (15-min buffer before prior checkpoint 18:49:17Z) as inbound@xipllc.com (direct sign-in this run, get_me correctly returned inbound@xipllc.com): 1 email found (same BayState Business Brokers listing 1937 email already logged last run as DF-00045, re-surfaced only by the 15-min overlap buffer), deduped by Message ID - 0 new rows. Dashboard regenerated (Refreshed timestamp only). Deal history unchanged: DF-00001..00045, 1 Strong Fit / 9 Fit / 8 Marginal / 27 Pass."
 }
