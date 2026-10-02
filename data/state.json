@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-02T14:50:49Z",
-  "notes": "Run at 2026-10-02T14:50:49Z; searched 2026-10-02T13:34:01Z -> 2026-10-02T14:49:23Z (15-min buffer before prior checkpoint 13:49:01Z) as inbound@xipllc.com (direct sign-in, get_me confirmed inbound@xipllc.com): 1 email found, passed Stage-1 (broker 'New Listing' + 'for sale' language), scored. DF-00046: ice cream retail chain (Baystate Business Brokers Listing 1929) - hard-disqualified as consumer products/brand, Pass tier, Fit Score 0. Dashboard regenerated. Deal history: DF-00001..00046, 1 Strong Fit / 9 Fit / 8 Marginal / 28 Pass."
+  "lastCheckedISO": "2026-10-02T15:49:19Z",
+  "notes": "Run at 2026-10-02T15:49:19Z; searched 2026-10-02T14:35:49Z -> 2026-10-02T15:49:19Z (15-min buffer before prior checkpoint 14:50:49Z) as inbound@xipllc.com (direct sign-in, get_me confirmed inbound@xipllc.com): 0 emails found, 0 new deals. Dashboard regenerated. Deal history: DF-00001..00046, 1 Strong Fit / 9 Fit / 8 Marginal / 28 Pass."
 }
