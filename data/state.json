@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-02T18:49:07Z",
-  "notes": "Run at 2026-10-02T18:49:07Z; searched 2026-10-02T17:34:06Z -> 2026-10-02T18:49:07Z (15-min buffer before prior checkpoint 17:49:06Z) as inbound@xipllc.com (direct sign-in, get_me confirmed inbound@xipllc.com). 1 email found in window, 1 passed Stage 1 (BayState Business Brokers listing blast, deal language present). Scored: outpatient behavioral health practice (Listing 1894), EBITDA $513K/Revenue $2.88M, Fit Score 34 -> Pass (out of infra/infra-adjacent-residential mandate, sub-scale EBITDA). 1 new deal logged as DF-00047. Dashboard regenerated. Deal history: DF-00001..00047, 1 Strong Fit / 9 Fit / 8 Marginal / 29 Pass."
+  "lastCheckedISO": "2026-10-02T19:48:43Z",
+  "notes": "Run at 2026-10-02T19:48:43Z; searched 2026-10-02T18:34:07Z -> 2026-10-02T19:48:43Z (15-min buffer before prior checkpoint 18:49:07Z) as inbound@xipllc.com (direct sign-in, get_me confirmed inbound@xipllc.com). 0 emails found in window. 0 new deals logged. Dashboard regenerated. Deal history unchanged: DF-00001..00047, 1 Strong Fit / 9 Fit / 8 Marginal / 29 Pass."
 }
