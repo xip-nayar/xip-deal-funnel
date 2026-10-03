@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-03T05:49:10Z",
-  "notes": "Run at 2026-10-03T05:49:10Z; searched 2026-10-03T04:34:19Z -> 2026-10-03T05:49:10Z (15-min buffer) as inbound@xipllc.com (direct sign-in, get_me confirmed inbound@xipllc.com). Empty window confirmed via positive control (last-24h search returned 3 emails, newest at 2026-10-02T18:23:32Z, all before window start). 0 emails found. 0 new deals logged. Dashboard regenerated. Deal history unchanged: DF-00001..00047, 1 Strong Fit / 9 Fit / 8 Marginal / 29 Pass."
+  "lastCheckedISO": "2026-10-03T06:48:51Z",
+  "notes": "Run at 2026-10-03T06:48:51Z; searched 2026-10-03T05:34:10Z -> 2026-10-03T06:48:51Z (15-min buffer) as inbound@xipllc.com (via mailboxOwnerEmail, delegate access). Empty window confirmed via positive control (last-24h search returned 3 emails, newest at 2026-10-02T18:23:32Z, all before window start). 0 emails found. 0 new deals logged. Dashboard regenerated. Deal history unchanged: DF-00001..00047, 1 Strong Fit / 9 Fit / 8 Marginal / 29 Pass."
 }
