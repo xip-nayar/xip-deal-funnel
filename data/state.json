@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-05T15:50:12Z",
-  "notes": "Run at 2026-10-05T15:50:12Z; searched 2026-10-05T14:34:27Z -> 2026-10-05T15:48:35Z (15-min buffer) against inbound@xipllc.com (get_me resolves directly to inbound@xipllc.com, no mailboxOwnerEmail needed). 1 email found in window, 1 passed Stage-1 (contained 'FOR SALE' deal language), 1 scored and logged (DF-00048, massage/wellness franchise broker listing, hard-disqualified as consumer products/brand, Fit Score 34, Pass tier). Dashboard regenerated. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
+  "lastCheckedISO": "2026-10-05T16:49:03Z",
+  "notes": "Run at 2026-10-05T16:49:03Z; searched 2026-10-05T15:35:12Z -> 2026-10-05T16:49:03Z (15-min buffer) against inbound@xipllc.com (get_me resolves directly to inbound@xipllc.com, no mailboxOwnerEmail needed). 0 emails in window (mailbox's newest message, 15:12:37Z, predates the window start; confirmed via unfiltered newest-5 query, not a tool failure). Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
 }
