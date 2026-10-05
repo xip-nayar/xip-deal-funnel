@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-05T21:49:08Z",
-  "notes": "Run at 2026-10-05T21:49:08Z; searched 2026-10-05T20:34:14Z -> 2026-10-05T21:49:08Z (15-min buffer) against inbound@xipllc.com (get_me resolves directly, no mailboxOwnerEmail needed). 0 emails in window; confirmed via BayState positive control that search tool is working. 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
+  "lastCheckedISO": "2026-10-05T22:48:38Z",
+  "notes": "Run at 2026-10-05T22:48:38Z; searched 2026-10-05T21:34:08Z -> 2026-10-05T22:48:38Z (15-min buffer) against inbound@xipllc.com (get_me now resolves directly, no mailboxOwnerEmail workaround needed). 0 emails in window; confirmed via BayState positive control that search tool is working. 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
 }
