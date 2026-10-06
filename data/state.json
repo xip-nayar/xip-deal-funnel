@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-06T18:48:42Z",
-  "notes": "Run at 2026-10-06T18:48:42Z; searched 2026-10-06T17:36:00Z -> now against inbound@xipllc.com (signed in directly as inbound@, confirmed via get_me). 0 emails in window (newest inbox item 17:33:40Z, before window start; confirmed tool working via unfiltered inbox listing, 536 total items, newest matching that same 17:33:40Z item). 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
+  "lastCheckedISO": "2026-10-06T19:49:35Z",
+  "notes": "Run at 2026-10-06T19:49:35Z; searched 2026-10-06T18:33:42Z -> now against inbound@xipllc.com (signed in directly as inbound@, confirmed via get_me). 0 emails in window (newest inbox item 13:02:13Z, well before window start; confirmed tool working via unfiltered inbox listing, 68 total items, newest matching that same 13:02:13Z item). 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
 }
