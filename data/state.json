@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-07T00:49:09Z",
-  "notes": "Run at 2026-10-07T00:49:09Z; searched 2026-10-06T23:33:47Z -> now against inbound@xipllc.com via mailboxOwnerEmail delegate access. 0 emails in window; confirmed tool working via positive control (BayState Listing 1838, returned correctly). 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
+  "lastCheckedISO": "2026-10-07T01:49:12Z",
+  "notes": "Run at 2026-10-07T01:49:12Z; searched 2026-10-07T00:34:09Z -> now against inbound@xipllc.com Inbox (signed-in identity is now inbound@xipllc.com directly per get_me, not a delegate mailbox). 0 emails in window. 0 new rows. Dashboard regenerated for timestamp honesty, no row changes. Deal history DF-00001..00048, 1 Strong Fit / 9 Fit / 8 Marginal / 30 Pass."
 }
