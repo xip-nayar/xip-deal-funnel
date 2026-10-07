@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-07T22:48:43Z",
-  "notes": "Run at 2026-10-07T22:48:43Z; searched 2026-10-07T21:34:04Z -> now against inbound@xipllc.com (delegate access, confirmed via positive control). 0 emails in window. No changes. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
+  "lastCheckedISO": "2026-10-07T23:49:11Z",
+  "notes": "Run at 2026-10-07T23:49:11Z; searched 2026-10-07T22:33:43Z -> now against inbound@xipllc.com (delegate access via mailboxOwnerEmail). 1 email in window (a calendar cancellation notice for an internal roundtable meeting), dropped at Stage-1 as purely internal admin with no deal content. 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
 }
