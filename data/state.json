@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-07T18:49:25Z",
-  "notes": "Run at 2026-10-07T18:49:25Z; searched 2026-10-07T17:34:13Z -> now against inbound@xipllc.com (direct access, get_me resolved straight to inbound@xipllc.com, no mailboxOwnerEmail needed). 1 email in window, passed Stage-1, scored: Listing 1909 (Boston Metro behavioral health practice, BayState Business Brokers) -- out-of-mandate outpatient therapy practice, Fit Score 34, Pass tier, appended as DF-00050. Dashboard regenerated. Deal history now DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
+  "lastCheckedISO": "2026-10-07T19:49:44Z",
+  "notes": "Run at 2026-10-07T19:49:44Z; searched 2026-10-07T18:34:25Z -> now against inbound@xipllc.com (direct access). 0 emails in window. No changes. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
 }
