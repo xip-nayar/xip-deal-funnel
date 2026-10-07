@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-07T14:49:35Z",
-  "notes": "Run at 2026-10-07T14:49:35Z; searched 2026-10-07T13:35:54Z -> now against inbound@xipllc.com shared mailbox (direct access, get_me resolved straight to inbound@xipllc.com). 0 emails in window; positive control (BayState Listing 1838, 2026-08-28T21:00-21:30Z) confirmed the search tool is working, so the empty window is genuine. No new rows appended. Dashboard regenerated to refresh timestamp. Deal history unchanged at DF-00001..00049, 1 Strong Fit / 9 Fit / 8 Marginal / 31 Pass."
+  "lastCheckedISO": "2026-10-07T15:49:21Z",
+  "notes": "Run at 2026-10-07T15:49:21Z; searched 2026-10-07T14:34:35Z -> now against inbound@xipllc.com shared mailbox (direct access, get_me resolved straight to inbound@xipllc.com). 0 emails in window; positive control (BayState Listing 1838, 2026-08-28T21:00-21:30Z) confirmed the search tool is working, so the empty window is genuine. No new rows appended. Dashboard regenerated to refresh timestamp. Deal history unchanged at DF-00001..00049, 1 Strong Fit / 9 Fit / 8 Marginal / 31 Pass."
 }
