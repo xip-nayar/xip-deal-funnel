@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-08T03:49:08Z",
-  "notes": "Run at 2026-10-08T03:49:08Z; searched 2026-10-08T02:34:00Z -> now against inbound@xipllc.com (signed in directly as inbound@, no delegate needed this run). 0 emails in window. Positive control (BayState Listing 1838, 2026-08-28T21:00-21:30Z) confirmed search tool working. 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
+  "lastCheckedISO": "2026-10-08T04:49:34Z",
+  "notes": "Run at 2026-10-08T04:49:34Z; searched 2026-10-08T03:34:08Z -> now against inbound@xipllc.com (signed in directly as inbound@, no delegate needed this run). 0 emails in window. Positive control (broader 24h window) returned 3 emails including 2 BayState broker listings, confirming search tool working. 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
 }
