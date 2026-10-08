@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-08T10:49:29Z",
-  "notes": "Run at 2026-10-08T10:49:29Z; searched 2026-10-08T09:34:10Z -> now against inbound@xipllc.com (own mailbox via get_me, no delegate param needed this run). 0 emails in window. Positive control (query: 'deal') returned results, confirming search tool working. 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
+  "lastCheckedISO": "2026-10-08T11:50:13Z",
+  "notes": "Run at 2026-10-08T11:50:13Z; searched 2026-10-08T10:34:29Z -> now against inbound@xipllc.com (get_me returned inbound@xipllc.com directly again, no delegate param needed). 0 emails in window. Positive control (query: 'deal') returned results, newest dated 2026-10-02, confirming search tool working and window genuinely empty. 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass."
 }
