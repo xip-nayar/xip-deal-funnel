@@ -1,4 +1,4 @@
 {
-  "lastCheckedISO": "2026-10-10T04:49:15Z",
-  "notes": "Run at 2026-10-10T04:49:15Z; searched inbound@xipllc.com 2026-10-10T03:33:32Z to 2026-10-10T04:49:15Z: 0 emails (confirmed genuine via positive control, which correctly returned the 2026-08-28 BayState Listing:1838 email). 0 passed Stage 1, 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass. Note: get_me now returns inbound@xipllc.com directly (not shruti.nayar@ via delegate) — access path may have changed, still works fine via mailboxOwnerEmail."
+  "lastCheckedISO": "2026-10-10T05:48:45Z",
+  "notes": "Run at 2026-10-10T05:48:45Z; searched inbound@xipllc.com 2026-10-10T04:34:15Z to 2026-10-10T05:48:45Z (own mailbox, no mailboxOwnerEmail needed): 0 emails. Verified via positive control (2026-08-28 BayState Listing:1838 email, correctly returned). 0 passed Stage 1, 0 new deals. Deal history remains DF-00001..00050, 1 Strong Fit / 9 Fit / 8 Marginal / 32 Pass. get_me now returns inbound@xipllc.com directly as the signed-in identity (not shruti.nayar@ via delegate, and not needing mailboxOwnerEmail) — access path has changed from earlier runs but works fine without the delegate parameter."
 }
